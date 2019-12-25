@@ -1,3 +1,5 @@
+package generator;
+
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.SneakyThrows;
 

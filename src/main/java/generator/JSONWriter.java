@@ -1,3 +1,5 @@
+package generator;
+
 import lombok.SneakyThrows;
 
 import java.io.FileWriter;
